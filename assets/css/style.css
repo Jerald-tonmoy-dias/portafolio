@@ -258,7 +258,7 @@ img {
     .header-section .header-navigation .container {
       position: relative; }
     .header-section .header-navigation .logo {
-      width: 180px;
+      width: 220px;
       position: relative;
       z-index: 9999999; }
       .header-section .header-navigation .logo a {
@@ -3805,3 +3805,6 @@ font-weight: 700;
       height: 400px;
       border-radius: 50%;
   }
+    .padding-bottom-150 {
+      padding-bottom: 150px;
+    }
